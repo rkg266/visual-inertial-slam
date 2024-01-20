@@ -32,6 +32,6 @@ Files present:
 * Find the "USER EDITABLE" section in the code and update the paths, parameters.
 * Run ece276_pr2.py
  Two modes available: (can be run simultaneously)
-	> RUN_SLAM = 1: Executes all the problem statements, saves the results as .npz in working directory and displays plots.
-	> RUN_PLOTTING = 1: Runs just the plots from already saved results data.
+	- RUN_SLAM = 1: Executes all the problem statements, saves the results as .npz in working directory and displays plots. <br>
+	- RUN_PLOTTING = 1: Runs just the plots from already saved results data.
 
