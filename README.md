@@ -1,4 +1,4 @@
-# visual-inertial-slam
+# EKF-SLAM for Visual Localization and Mapping
 Implemented simultaneous localization and mapping (SLAM), leveraging extended Kalman filter for estimating the SLAM pose of a moving car and landmark positions in its surroundings.
 
 ## Data utilized:
